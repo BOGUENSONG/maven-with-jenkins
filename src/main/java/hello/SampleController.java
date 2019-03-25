@@ -91,7 +91,6 @@ public class SampleController {
         System.out.println("3.사이다 1300");
         System.out.println("4.포카리스웨트 1000");
         System.out.println("5.조지아 1600");
-        Sysetm.out.println("6.테스트 9999");
         System.out.println("---------------------------");
     }
 
