@@ -7,4 +7,5 @@ download this project and review pom.xml and project folder structures.
 in browser check the url "http://localhost:8080"
 
 jk
+SonarQube Test 20190325 21:30
 Jenkins url "http://ec2-18-223-180-118.us-east-2.compute.amazonaws.com:8080"
